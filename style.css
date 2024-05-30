@@ -1,0 +1,74 @@
+.header {
+    padding: 20px;
+    margin: 0;
+    background-color: darkgray;
+    min-height: 100vh;
+}
+
+.header_logo {
+    width: 50px;
+    display: block;
+}
+
+.header_name {
+    color: cadetblue;
+    font-size: 70px;
+    text-align: center;
+
+}
+
+.header_nav {
+    padding: 0;
+    margin: 0;
+    background-color: darkkhaki;
+    text-align: center;
+
+}
+
+.header_nav_list {
+    padding: 0;
+    margin: 20px;
+    text-align: center;
+    font-style: italic;
+    display: inline-block;
+
+}
+
+main {
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+#cours1 {
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+    display: inline-block;
+    text-align: center;
+    margin: 0 20px;
+
+}
+
+#cours2 {
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+    display: inline-block;
+    text-align: center;
+    margin: 0 20px;
+}
+
+p {
+    color: cornflowerblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+input[type="text"] {
+    border: 2px solid blue;
+    padding: 5px;
+}
+
+
+
